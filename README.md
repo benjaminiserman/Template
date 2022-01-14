@@ -1,7 +1,7 @@
-# Template
+# TEMPLATE
 ![Downloads](https://img.shields.io/github/downloads/winggar/namehere/total?style=for-the-badge)
 
-Template is a utility that allows users to do things.
+TEMPLATE is a utility that allows users to do things.
 
 ## Prerequisites
 
@@ -22,11 +22,11 @@ Due to low demand, standalone builds for Mac OSX and Linux are not provided. If 
 
 1. Download either "build.zip" or "standalone.zip" from the latest release, depending on your prerequisites.
 2. Unzip the file.
-3. Find the file "Template.exe" within the unzipped folder and run it.
-4. DoCoolStuffAsEloquentlyExplainedHere
+3. Find the file "TEMPLATE.exe" within the unzipped folder and run it.
+4. TEMPLATEDoCoolStuffAsEloquentlyExplainedHereTEMPLATE
 
 ## Contribution
-To contribute to <project_name>, follow these steps:
+To contribute to TEMPLATE, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
