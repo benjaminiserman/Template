@@ -1,5 +1,5 @@
 # TEMPLATE
-![Downloads](https://img.shields.io/github/downloads/winggar/namehere/total?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/winggar/TEMPLATE/total?style=for-the-badge)
 
 TEMPLATE is a utility that allows users to do things.
 
@@ -38,4 +38,4 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## License
 
-![License](https://img.shields.io/github/license/winggar/namehere?style=for-the-badge)
+![License](https://img.shields.io/github/license/winggar/TEMPLATE?style=for-the-badge)
