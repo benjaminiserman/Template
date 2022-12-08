@@ -24,7 +24,7 @@ Due to low demand, standalone builds for Mac OSX and Linux are not provided. If 
 2. Unzip the file.
 3. Find the file "TEMPLATE.exe" within the unzipped folder and run it.
 
-## USAGE
+## Usage
 
 COOL_STUFF_HERE
 
